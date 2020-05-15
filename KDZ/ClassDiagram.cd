@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LZ77">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAMAAACAAAAAAAAAJBEAAEABAQABAAAAAAgCAABA=</HashCode>
+      <FileName>lz77.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShannonFano">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAQACAAAAAABAAAAAAACABAIIAAAAQgAAA=</HashCode>
+      <FileName>shannonFano.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_symbols" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Coder">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAAAAIAAAAAAAAABAAAABAAAABAAAAEACAAAAA=</HashCode>
+      <FileName>coder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Symbol">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAIgAAIAAAAAIAACIAAAQgCAABCAASgCAA=</HashCode>
+      <FileName>shannonFanoSymbol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="std::vector&lt;_Ty, _Alloc&gt;" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUIAEIEqCrBsEEBAAOMIAAAyAAUEQBIAhQkwggAFUkI=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vector</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
